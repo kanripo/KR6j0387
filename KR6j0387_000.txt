@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖持世陀羅尼經
+#+DATE: 2015-08-30 20:31:24.673129
+#+PROPERTY: JUAN 0
