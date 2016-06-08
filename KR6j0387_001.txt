@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:24.461652
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 聖持世陀羅尼經
 #+PROPERTY: CBETA_ID T20n1165
 #+PROPERTY: ID KR6j0387
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1165
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0387_T_000-0672b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0387_T_001-0672b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1165[Nos.1162-1164]¶
-
- 聖持世陀羅尼經¶
+No. 1165 [Nos. 1162-1164]¶
+聖持世陀羅尼經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
